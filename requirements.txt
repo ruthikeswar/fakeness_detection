@@ -123,7 +123,6 @@ pyarrow==18.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.1
 pycparser==2.22
-pycurl==7.44.1
 pydantic==2.10.1
 pydantic_core==2.27.1
 pydeck==0.9.1
