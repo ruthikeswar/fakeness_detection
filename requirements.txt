@@ -133,7 +133,7 @@ pyrsistent==0.18.1
 pyserial==3.5
 python-dateutil==2.9.0.post0
 python-multipart==0.0.17
-pytorch-lightning==2.4.0
+pytorch-lightning>=1.8.0,<2.0.0
 pytorch-metric-learning==2.7.0
 pytz==2022.1
 PyWavelets==1.8.0
