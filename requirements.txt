@@ -16,7 +16,7 @@ awscli==1.22.34
 Babel==2.8.0
 bcrypt==3.2.0
 blinker==1.4
-boto3==1.35.69
+boto3==1.20.34
 botocore==1.23.34
 cachetools==5.5.0
 certifi==2020.6.20
